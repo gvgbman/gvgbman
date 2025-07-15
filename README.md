@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @gvgbman
--  well my actual name is Krish.
--  I’m interested in data analytics and AI
--  I’m currently learning C++
+
 
 
 <!---
